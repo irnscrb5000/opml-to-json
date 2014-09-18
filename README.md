@@ -3,8 +3,8 @@
 ## Syntax:
 opmlToJson(data, prettyPrint)
 
-- data: xml formatted string or dom to convert to json
-- prettyPrint: if true, return json data in a human readable form, default is false
+- **data:** xml formatted string or dom to convert to json
+- **prettyPrint:** if true, return json data in a human readable form, default is false
 
 ## Usage:
 **With jQuery:**
